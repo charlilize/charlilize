@@ -8,11 +8,11 @@
 using namespace std;
 
 class Charlize {
-  int age = 19;
+  int age = 20;
   string location = "United States";
   string school = "University of Nevada, Las Vegas";
   string major = "Computer Science";
-  double gpa = 4.0;
+  double gpa = 3.0;
   vector<string> languages = {"C++", "CSS", "HTML", "React", "JavaScript"};
   vector<string> loves = {"Coding", "Crocheting", "Gym", "My Dog Yuki", "Noah <3"};
 };
