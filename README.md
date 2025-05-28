@@ -12,7 +12,7 @@ class Charlize {
   string location = "United States";
   string school = "University of Nevada, Las Vegas";
   string major = "Computer Science";
-  double gpa = 3.0;
+  double gpa = 3.9;
   vector<string> languages = {"C++", "CSS", "HTML", "React", "JavaScript"};
   vector<string> loves = {"Coding", "Crocheting", "Gym", "My Dog Yuki", "Noah <3"};
 };
