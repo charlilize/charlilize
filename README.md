@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Charlize
-- 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning Web Dev
 
 ```cpp
